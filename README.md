@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**davidsayas/davidsayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hola, soy Bibiwil 👋
-
 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad 
 Industrial de Santander. Me interesa el machine learning aplicado a 
-problemas ambientales y sociales.
+multiples problemas.
 
-🔭 Actualmente trabajando en: [tu proyecto de monitoreo ambiental]
+🔭 Actualmente trabajando en: Proyecto de monitoreo ambiental enfocado en la cuidad de barrancabermeja
 🌱 Aprendiendo: PyTorch, FastAPI, MLOps
-📫 Cómo contactarme: [email] | [LinkedIn]
+📫 Cómo contactarme: @
 
 #### Stack
 Python · Pandas · Scikit-learn · PyTorch · FastAPI · SQL · Git
+
