@@ -9,5 +9,5 @@ multiples problemas.
 📫 Cómo contactarme: @
 
 #### Stack
-Python · Pandas · Scikit-learn · PyTorch · FastAPI · SQL · Git
+Python · Pandas · Scikit-learn  
 
