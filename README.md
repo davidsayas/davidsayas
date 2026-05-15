@@ -6,7 +6,7 @@ multiples problemas.
 
 🔭 Actualmente trabajando en: Proyecto de monitoreo ambiental enfocado en la cuidad de barrancabermeja
 🌱 Aprendiendo: Scikit-learn  Pandas 
-📫 Cómo contactarme: @
+
 
 #### Stack
 Python 
