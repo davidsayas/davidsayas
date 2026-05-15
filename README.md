@@ -5,9 +5,9 @@ Industrial de Santander. Me interesa el machine learning aplicado a
 multiples problemas.
 
 🔭 Actualmente trabajando en: Proyecto de monitoreo ambiental enfocado en la cuidad de barrancabermeja
-🌱 Aprendiendo: 
+🌱 Aprendiendo: Scikit-learn  Pandas 
 📫 Cómo contactarme: @
 
 #### Stack
-Python · Pandas · Scikit-learn  
+Python 
 
